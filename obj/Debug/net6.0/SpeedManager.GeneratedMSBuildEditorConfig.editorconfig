@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SpeedManager
-build_property.ProjectDir = B:\WORK\MODDING\stoneshard-mods\ModShardLauncher-source\bin\Debug\net6.0-windows\ModSources\SpeedManager\
+build_property.ProjectDir = B:\WORK\MODDING\stoneshard-mods\Tools\MSL\ModShardLauncher-fork\bin\Debug\net6.0-windows\ModSources\SpeedManager\

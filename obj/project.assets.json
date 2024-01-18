@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\WORK\\MODDING\\stoneshard-mods\\ModShardLauncher-source\\bin\\Debug\\net6.0-windows\\ModSources\\SpeedManager\\SpeedManager.csproj",
+      "projectUniqueName": "B:\\WORK\\MODDING\\stoneshard-mods\\Tools\\MSL\\ModShardLauncher-fork\\bin\\Debug\\net6.0-windows\\ModSources\\SpeedManager\\SpeedManager.csproj",
       "projectName": "SpeedManager",
-      "projectPath": "B:\\WORK\\MODDING\\stoneshard-mods\\ModShardLauncher-source\\bin\\Debug\\net6.0-windows\\ModSources\\SpeedManager\\SpeedManager.csproj",
+      "projectPath": "B:\\WORK\\MODDING\\stoneshard-mods\\Tools\\MSL\\ModShardLauncher-fork\\bin\\Debug\\net6.0-windows\\ModSources\\SpeedManager\\SpeedManager.csproj",
       "packagesPath": "C:\\Users\\Nylux\\.nuget\\packages\\",
-      "outputPath": "B:\\WORK\\MODDING\\stoneshard-mods\\ModShardLauncher-source\\bin\\Debug\\net6.0-windows\\ModSources\\SpeedManager\\obj\\",
+      "outputPath": "B:\\WORK\\MODDING\\stoneshard-mods\\Tools\\MSL\\ModShardLauncher-fork\\bin\\Debug\\net6.0-windows\\ModSources\\SpeedManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nylux\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
       }
     }
   }
